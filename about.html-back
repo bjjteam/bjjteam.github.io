@@ -4,10 +4,11 @@
 <meta charset="utf-8">
 <title>Brazilian jiu jitsu Berlin Team</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="author" content="">
+<meta name="author" content="Pawel Grzesik">
+<meta name="keywords" content="BJJ, Brazilian Jiu Jitsu, Berlin, BJJ Berlin, bjj, gi, nogi, No-gi, kickboxing, boxing, box, crossfit"/>
+<meta name="description" content="Die Brazilian Jiu-Jitsu, BJJ Kurse, BJJ, No Gi, Grappling, Crossfit, Kickboxing"/>
 
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
 
 <link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" id="camera-css"  href="css/camera.css" type="text/css" media="all">
@@ -16,8 +17,19 @@
 <link rel="stylesheet" type="text/css" href="css/skins/tango/skin.css" />
 <link href="css/bootstrap-responsive.css" rel="stylesheet">
 <!--[if lt IE 9]>
-	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
+
+<style>
+table {
+  border-spacing: 20px 0;
+}
+
+td {
+  padding: 5px 0;
+}
+</style>
+
 </head>
 <body>
 	<!--header-->
@@ -65,19 +77,78 @@
     	<div class="wrap">
         	<div class="container">
                 <section>
-                    <div class="row">
-                        <div class="span4">
-                    </div>
-                </section>
-                <section>
+                    <h2 class="title"><span>Trainer - Mario Paraiba</span></h2>
+
+<table STYLE='padding:110px 120px 110px 110px'>
+  <tr align="left">
+    <th>IBJJF European Open No-Gi Champion</th>
+    <td>Super Heavy</td>
+    <td>2017</td>
+    <td>Gold</td>
+  </tr>
+  <tr align="left">
+    <th>IBJJF European Open No-Gi Champion</th>
+    <td>Absoluto</td>
+    <td>2017</td>
+    <td>Gold</td>
+  </tr>
+  <tr align="left">
+    <th>IBJJF Rome International Open Champion</th>
+    <td>Super Heavy</td>
+    <td>2017</td>
+    <td>Gold</td>
+  </tr>
+  <tr align="left">
+    <th>ADCC Profesional German Open Champion</th>
+    <td>Absoluto</td>
+    <td>2017</td>
+    <td>Gold</td>
+  </tr>
+  <tr align="left">
+    <th>East German 4xChampion</th>
+    <td>Heavy-Absoluto</td>
+    <td>2016, 2015</td>
+    <td>Gold</td>
+  </tr>
+  <tr align="left">
+    <th>Gfteam 4x Champion</th>
+    <td>Heavy-Absoluto, Heavy, Absoluto &nbsp;</td>
+    <td>2016, 2015 &nbsp;</td>
+    <td>Gold, Gold, Gold, Silver</td>
+  </tr>
+  <tr align="left">
+    <th>Naga Expert Champion</th>
+    <td>Cruiser</td>
+    <td>2015</td>
+    <td>Gold</td>
+  </tr>
+  <tr align="left">
+    <th>Naga Purple Champion</th>
+    <td>Cruiser</td>
+    <td>2015</td>
+    <td>Gold</td>
+  </tr>
+  <tr align="left">
+    <th>IBJJF Münich International Open Champion &nbsp;</th>
+    <td>Heavy-Absoluto</td>
+    <td>2015</td>
+    <td>Gold, Gold</td>
+  </tr>
+  <tr align="left">
+    <th>Naga Expert Champion</th>
+    <td>Cruiser</td>
+    <td>2015</td>
+    <td>Silver</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
                 	<h2 class="title"><span>Our current training plan</span></h2>
-                  <p><li>Dienstag: bjj nogi [20:30 - 22:00]</li>
-                  <li>Donnerstag: bjj gi [20:30 - 22:00]</li>
-                  <li>Freitag: bjj nogi [17:00 - 18:15]</li>
-                  <li>Samstag: bjj gi [17:00 - 18:00]</li></p>
-                  <p> </p>
-                  </ br>
+                    <img src="img/gfteam_plan.jpg" alt="" />
                 </section>
+                <p>We are located in Rathaus Steglitz, Berlin, close to sbahn S1 line and ubahn U9. Stop by today to see for yourself, and you will be exited to try our free trial classes.</p>
+                <p>&nbsp;</p>
             </div>
         </div>
     </div>
@@ -116,7 +187,7 @@
         </div>
 
 
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="js/jquery.mobile.customized.min.js"></script>
     <script type="text/javascript" src="js/camera.js"></script>
